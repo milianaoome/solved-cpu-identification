@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-cpu-identification
+<br>
+From the first e-Activity, identify the following CPUs: 1) the CPU that resides on a computer that you own or a computer that you would consider purchasing, and 2) the CPU of one (1) other computer. Compare the instruction sets and clock rates of each CPU. Determine which CPU of the two is faster and why. Conclude whether or not the clock rate by itself makes the CPU faster. Provide a rationale for your response.From the second e-Activity, examine two (2) benefits of using planning techniques—such as writing program flowcharts, pseudocode, or other available programming planning technique—to devise and design computer programs. Evaluate the effectiveness of your preferred program planning technique, based on its success in the real world. Provide one (1) example of a real-life application of your preferred program planning technique to support your response.
+
+paragraph and references
